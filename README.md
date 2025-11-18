@@ -80,8 +80,8 @@ To run this project locally, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/MDDR2K4/Week-1
-    cd Week-1
+    git clone https://github.com/MDDR2K4/Waste-Classifier
+    cd Waste-Classifier
     ```
 
 2.  **Create and activate a virtual environment:**
